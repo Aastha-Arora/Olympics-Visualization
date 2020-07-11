@@ -10,7 +10,7 @@
 
 **Rendered** : Python Flask-powered RESTful API
 
-**Database** : PostgreSQL with pgAdmin 4
+**Database** : PostgreSQL
 
 **Visualizations** : 
 - Racing Barchart with D3.js for SVG chart
