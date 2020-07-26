@@ -34,8 +34,8 @@
 
 - Git clone this Repo 
 - Log into pdAdmin and create a database 
-- Use `PostgreSQL_schema.sql` inside the directory titled database for creating the schema for the newly created database 
-- Use `olympics_data.csv` inside the directory titled database to import in the pdAdmin 4 database
-- Update `config_database.py` with own pgAdmin 4 password and database name
+- Use `PostgreSQL_schema.sql` file located inside the directory titled `database` for creating the schema for the newly created database 
+- Use `olympics_data.csv` file locatd inside the directory titled `database` to import in the pdAdmin 4 database
+- Update `config_database.py` with own pgAdmin4 password and database name
 - Run in Terminal `$ python app.py`
 - Copy Server Flask app pathway provided by the Terminal into a Web browser 
